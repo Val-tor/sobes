@@ -1,5 +1,5 @@
 # week
-
+![Screenshot](Screenshot.png)
 ## Project setup
 ```
 npm install
